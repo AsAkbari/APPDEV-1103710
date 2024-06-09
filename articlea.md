@@ -72,3 +72,15 @@ Here are some great places to learn more about Python:
 
 - ([Python.org]( https://www.python.org/)) - The official Python website.
 -  ([PyCon](https://pycon.org/)) - A major conference for the Python community.
+-  
+### 3.2 Utilizing Python Libraries
+ Here is a table of some popular Python libraries and their uses:
+ 
+|   Library  |  Use Case    |
+|:-----------|:------------|
+|Django Web  | Development  |
+|Pandas      |Data Analysis |
+|NumPy       |Numerical Computing|
+|Matplotlib  |Data Visualization|
+|Scikit-learn| Machine Learning|
+
